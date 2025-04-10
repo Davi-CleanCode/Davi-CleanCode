@@ -11,7 +11,7 @@ Especializado em desenvolvimento Full Stack, com fascínio pela engenharia de so
 
 Atualmente cursando Gestão de Tecnologia da Informação, crio soluções que fazem a diferença.
 
-Meu interesse pela comunicação digital me levou a unir o desenvolvimento com a comunicação, compreendendo sua essência além de apenas programar.
+Minha afinidade com a comunicação digital me levou a enxergar o desenvolvimento de software além do código — como uma ferramenta estratégica para resolver problemas e conectar pessoas por meio da tecnologia.
 
 Além disso, também atuo com arquitetura de sistemas e gerenciamento de projetos, alinhando tecnologia e estratégia para entregar soluções inovadoras e eficazes.
 
