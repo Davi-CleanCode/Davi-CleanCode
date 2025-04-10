@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG">
   </a>
 </div>
-#
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Especializado em desenvolvimento Full Stack, com fascínio pela engenharia de software, busco crescimento constante.
