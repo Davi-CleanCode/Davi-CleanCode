@@ -7,28 +7,15 @@
 ##
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-I specialize in front-end development. I have also full-stack development experience.
+Especializado em desenvolvimento Fullstack com facionio pela engenharia de software busco crescimento constante
 
-I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
+Atualmente cursando Gestão de Tecnologia e informação crio soluções que fazem a diferença.
 
-I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
+Meu interesse pela comunicação digital me levou a unir o desenvolvimento com a comunicação, compreendendo sua essência além de apenas programar.
 
-I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
+Além disso, também atuo com arquitetura de sistemas e gerenciamento de projetos, alinhando tecnologia e estratégia para entregar soluções inovadoras e eficazes.
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-##
-
-
-
-🧑‍💻📚 Estudante de Gestão de Tecnologia e Informação pela a escola IMPACTA Tecnologia em SP.
-
-Atualmente não trabalho na area porém tenho imenso interrese em ingressar em cargos de tecnologia,
-
-Junto do ensino superior curso programção FullStack com foco em Python no institudo EBAC,
-e paralelamente faço curso profissionalizante em Gestão de Projetos no instituto DNC.
-
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 ##
 <div align="center" >
