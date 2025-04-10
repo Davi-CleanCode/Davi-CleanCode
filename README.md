@@ -5,6 +5,21 @@
 </div>
 
 ##
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+I specialize in front-end development. I have also full-stack development experience.
+
+I am a fast learner and eager to explore new technologies. An advocate of agile software development, teamwork, and clean code. Able and ready to think outside the box.
+
+I'm a well organized person very passionate and dedicated to my work. I'm used to always finish to my work until the end.
+
+I never give up. I prefer to keep learning, continue challenging myself, and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and I am always open for new opportunities.
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+##
+
+
 
 🧑‍💻📚 Estudante de Gestão de Tecnologia e Informação pela a escola IMPACTA Tecnologia em SP.
 
