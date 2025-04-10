@@ -7,9 +7,9 @@
 ##
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Especializado em desenvolvimento Fullstack com facionio pela engenharia de software busco crescimento constante
+Especializado em desenvolvimento Full Stack, com fascínio pela engenharia de software, busco crescimento constante.
 
-Atualmente cursando Gestão de Tecnologia e informação crio soluções que fazem a diferença.
+Atualmente cursando Gestão de Tecnologia da Informação, crio soluções que fazem a diferença.
 
 Meu interesse pela comunicação digital me levou a unir o desenvolvimento com a comunicação, compreendendo sua essência além de apenas programar.
 
