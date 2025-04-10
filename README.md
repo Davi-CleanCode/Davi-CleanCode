@@ -53,7 +53,7 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
 </p>
-##
+
 
 
 ![Snake animation](https://github.com/Davi-CleanCode/Davi-CleanCode/blob/output/github-contribution-grid-snake.svg)
