@@ -51,9 +51,6 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 
 ##
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davi-CleanCode&theme=2077&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi-CleanCode&theme=2077)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
 ##
 
 
