@@ -56,7 +56,9 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 </p>
 
 ##
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
+</p>
 ##
 
 
