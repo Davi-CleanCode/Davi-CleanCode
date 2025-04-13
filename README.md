@@ -20,7 +20,7 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 ##
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,nodejs,docker,github,mongodb,mysql,postgres,kubernetes,py,django,aws,terraform,kafka,php" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,javascript,typescript,css,tailwind,html,react,nodejs,docker,mongodb,mysql,postgres,py,django,aws,kubernetes,terraform,kafka,php" />
 </a>
   <br />
 
