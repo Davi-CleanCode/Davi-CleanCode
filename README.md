@@ -58,16 +58,7 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 ##
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
 
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Davi-CleanCode's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Davi-CleanCode&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Davi-CleanCode's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
 
 
 ![Snake animation](https://github.com/Davi-CleanCode/Davi-CleanCode/blob/output/github-contribution-grid-snake.svg)
