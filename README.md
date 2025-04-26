@@ -53,6 +53,9 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 <div>
   <a href="https://www.instagram.com/davi_vianax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vianadavi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="mailto:daviviana2732@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Gmail" />
+  </a>
 </div>
 
 ##
