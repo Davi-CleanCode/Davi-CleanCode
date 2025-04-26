@@ -26,6 +26,26 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 
   </div>
 
+  <h2 align="center">📊Formações e Estatísticas do GitHub :)</h2>
+
+<table align="center" style="border: 0;">
+  <tr>
+  <td>
+  
+  | Especialização      | instituição   | Status         | 
+  |---------------------|---------------|----------------|
+  | Tecnólogo em GTI    | Impacta       | Em progresso...|
+  | Dev FullStack       | EBAC          | Em progresso...| 
+  | Gestão de projetos  | DNC           | Em progresso...|
+  
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&theme=radical" alt="Most Used Languages" />
+  </td>
+  </tr>
+</table>
+
+
 ##
 
 <h3 align="left">Connect with me!</h3>
