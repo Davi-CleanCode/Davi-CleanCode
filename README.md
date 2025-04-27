@@ -1,7 +1,3 @@
-<div>
-<img align="center" alt="Header" src="https://github.com/DevLuxor08/DevLuxor08/blob/main/GIF/GifMario.gif" />
-</div>
-
 
 # <div align="center">
   <a href="https://git.io/typing-svg">
@@ -77,4 +73,10 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 
 
 ![Snake animation](https://github.com/Davi-CleanCode/Davi-CleanCode/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+<img align="center" alt="Header" src="https://github.com/DevLuxor08/DevLuxor08/blob/main/GIF/GifMario.gif" />
+</div>
+
+
 
