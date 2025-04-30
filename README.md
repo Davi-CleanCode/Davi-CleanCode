@@ -22,7 +22,9 @@ Aqui no meu GitHub você vai encontrar:
 
 💻 Aplicações Web
 
-📱 Apps Mobile
+☁️ Projetos Devops
+
+🚀 Projetos Fullstack 
 
 📌 Dicas de desenvolvimento e aprendizado
 
