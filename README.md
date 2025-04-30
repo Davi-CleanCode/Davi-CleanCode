@@ -19,9 +19,13 @@ Além disso, também atuo com arquitetura de sistemas e gerenciamento de projeto
 Aqui no meu GitHub você vai encontrar:
 
 📚 Projetos de estudos
+
 💻 Aplicações Web
+
 📱 Apps Mobile
+
 📌 Dicas de desenvolvimento e aprendizado
+
 Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou até mesmo trocar uma ideia comigo!
 
 Vamos evoluir juntos! 🚀
