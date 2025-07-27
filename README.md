@@ -26,8 +26,6 @@ Aqui no meu GitHub você vai encontrar:
 
 🚀 Projetos Fullstack 
 
-📌 Dicas de desenvolvimento e aprendizado
-
 🤖 machine learning e automação
 
 Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou até mesmo trocar uma ideia comigo!
