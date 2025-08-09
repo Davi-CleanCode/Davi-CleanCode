@@ -39,7 +39,7 @@ Vamos evoluir juntos! 🚀
 ##
 <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,javascript,typescript,css,tailwind,html,react,nodejs,docker,mongodb,mysql,postgres,py,django,aws,kubernetes,terraform,kafka,figma " />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion,javascript,typescript,css,tailwind,html,react,nodejs,docker,mongodb,mysql,postgres,py,django,C#,.NET,figma " />
 </a>
   <br />
 
