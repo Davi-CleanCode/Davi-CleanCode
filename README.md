@@ -39,7 +39,7 @@ Vamos evoluir juntos! 🚀
 ##
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,bigquery,cs,dotnet,js,ts,nodejs,react,tailwind,git,github,vscode,docker,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,cs,dotnet,angular,js,ts,nodejs,react,tailwind,git,github,vscode,docker,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
