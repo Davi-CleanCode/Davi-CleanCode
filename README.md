@@ -56,10 +56,6 @@ Vamos evoluir juntos! 🚀
   | Gestão de projetos  | DNC           | Em progresso...|
   
   </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&theme=radical" alt="Most Used Languages" />
-  </td>
-
 <td>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&langs_count=30&theme=radical&hide_border=false&include_all_commits=true&count_private=true" 
