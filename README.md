@@ -58,6 +58,7 @@ Vamos evoluir juntos! 🚀
   </td>
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&theme=radical" alt="Most Used Languages" />
+    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&langs_count=20&theme=dark&title_color=ff00ff&text_color=ffffff&bg_color=1e1e2e&border_color=ff66ff)](https://github.com/Davi-CleanCode)
   </td>
   </tr>
 </table>
