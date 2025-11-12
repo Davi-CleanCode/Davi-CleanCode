@@ -34,7 +34,7 @@ Vamos evoluir juntos! 🚀
 
 <div align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&center=false&vCenter=false&random=false&width=520&repeat=true&lines=Principais+Tech+%F0%9F%92%BB%3BPython%3BJavaScript%3BC%2523%3BNode.js%3BTypeScript%3BDocker"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&center=false&vCenter=false&random=false&width=520&repeat=true&lines=Principais+Techs+%F0%9F%92%BB%3BPython%3BJavaScript%3BC#23%3BNode.js%3BTypeScript%3BDocker"
     alt="Typing SVG"
   />
 </div>
