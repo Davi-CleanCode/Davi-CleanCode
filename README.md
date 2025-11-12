@@ -69,6 +69,12 @@ Vamos evoluir juntos. 👊
 
 </div>
 
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,cs,dotnet,angular,js,ts,nodejs,react,tailwind,git,github,vscode,docker,figma&theme=dark)](https://skillicons.dev)
+
+</div>
 ---
 
 <!-- 🌐 CONTATOS -->
