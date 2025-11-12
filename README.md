@@ -70,11 +70,6 @@ Vamos evoluir juntos. 👊
 </div>
 
 
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,cs,dotnet,angular,js,ts,nodejs,react,tailwind,git,github,vscode,docker,figma&theme=dark)](https://skillicons.dev)
-
-</div>
 ---
 
 <!-- 🌐 CONTATOS -->
@@ -100,6 +95,8 @@ Vamos evoluir juntos. 👊
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-CleanCode&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true">
   </a>
 </p>
+
+![Snake animation](https://github.com/Davi-CleanCode/Davi-CleanCode/blob/output/github-contribution-grid-snake.svg)
 
 
 
