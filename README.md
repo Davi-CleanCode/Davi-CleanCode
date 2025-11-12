@@ -8,29 +8,21 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Especializado em desenvolvimento Full Stack, com fascínio pela engenharia de software, busco crescimento constante.
+🎯 Desenvolvedor Full Stack em evolução, apaixonado por Engenharia de Software e sempre em busca do próximo nível.
 
-Atualmente cursando Gestão de Tecnologia da Informação, crio soluções que fazem a diferença.
+💡 Estudante de Gestão de Tecnologia da Informação, transformo ideias em soluções reais que conectam pessoas e tecnologia.
 
-Minha afinidade com a comunicação digital me levou a enxergar o desenvolvimento de software além do código — como uma ferramenta estratégica para resolver problemas e conectar pessoas por meio da tecnologia.
+🚀 Aqui você vai encontrar:
+- 📚 Projetos de estudo  
+- 💻 Aplicações Web  
+- ☁️ Projetos DevOps  
+- 🧩 Arquitetura e automação  
 
-Além disso, também atuo com arquitetura de sistemas e gerenciamento de projetos, alinhando tecnologia e estratégia para entregar soluções inovadoras e eficazes.
+Gosto de unir código, design e estratégia pra criar algo que faça sentido — não só funcionar.
 
-Aqui no meu GitHub você vai encontrar:
+⭐ Curte o que vê? Deixa uma estrela ou bora trocar uma ideia.  
+Vamos evoluir juntos! 👊
 
-📚 Projetos de estudos
-
-💻 Aplicações Web
-
-☁️ Projetos Devops
-
-🚀 Projetos Fullstack 
-
-🤖 machine learning e automação
-
-Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou até mesmo trocar uma ideia comigo!
-
-Vamos evoluir juntos! 🚀
 
 <div align="left">
   <img
