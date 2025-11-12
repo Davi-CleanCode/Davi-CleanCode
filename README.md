@@ -32,12 +32,13 @@ Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou at
 
 Vamos evoluir juntos! 🚀
 
-<div align="center">
+<div align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=520&repeat=true&lines=Principais+Tech+%F0%9F%92%BB%3BPython%3BJavaScript%3BC%2523%3BNode.js%3BTypeScript%3BDocker"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&center=false&vCenter=false&random=false&width=520&repeat=true&lines=Principais+Tech+%F0%9F%92%BB%3BPython%3BJavaScript%3BC%2523%3BNode.js%3BTypeScript%3BDocker"
     alt="Typing SVG"
   />
 </div>
+
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
