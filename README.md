@@ -42,9 +42,6 @@ const daviViana = {
       'Microsoft Azure (fundamentos)',
       'Conceitos de Cloud Computing'
     ],
-    design: [
-      'Figma (wireframes e protótipos)'
-    ],
     architecture: [
       'MVC',
       'API REST',
@@ -95,16 +92,6 @@ const daviViana = {
 | 💼 Tecnólogo em GTI | Impacta | Em progresso... |
 | 💻 Dev Full Stack | EBAC | Em progresso... |
 | 📈 Gestão de Projetos | DNC | Em progresso... |
-
-   </td>
-   <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&langs_count=30&theme=radical&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Most Used Languages and Tools"
-      />
-   </td>
-  </tr>
-</table>
 
 ---
 
