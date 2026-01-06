@@ -13,7 +13,6 @@ const daviViana = {
     'engenharia de software',
     'desenvolvimento full stack',
     'back-end .NET',
-    'boas práticas de código',
     'automação e DevOps'
   ],
   technologies: {
@@ -43,9 +42,6 @@ const daviViana = {
       'Microsoft Azure (fundamentos)',
       'Conceitos de Cloud Computing'
     ],
-    observability: [
-      'Datadog (monitoramento e métricas)'
-    ],
     design: [
       'Figma (wireframes e protótipos)'
     ],
@@ -69,12 +65,6 @@ const daviViana = {
       'Lean Six Sigma (Green Belt)',
       'Modelagem de Processos',
       'Análise de Viabilidade de Projetos'
-    ],
-    misc: [
-      'Lógica de Programação',
-      'Refatoração de Código',
-      'Versionamento',
-      'Documentação Técnica'
     ],
   },
   learningNow: [
