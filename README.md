@@ -82,12 +82,6 @@ const daviViana = {
   ],
 };
 ```
-<!-- 🔥 TECH STACK -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,cs,dotnet,angular,js,ts,nodejs,react,tailwind,git,github,vscode,docker,figma&theme=dark" />
-</div>
-
----
 
 <!-- 🎓 FORMAÇÕES + STATS -->
 <h2 align="center">📊 Formação & Estatísticas</h2>
