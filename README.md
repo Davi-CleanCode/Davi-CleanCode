@@ -25,7 +25,7 @@ const daviViana = {
     backEnd: {
       dotnet: ['.NET', 'ASP.NET Core', 'Web API', 'MVC'],
       python: ['Django (básico)', 'Flask (básico)'],
-      node: ['Node.js (básico)'],
+      node: ['Node.js'],
     },
     dataBases: {
       relational: ['SQL Server', 'MySQL', 'PostgreSQL'],
@@ -36,7 +36,7 @@ const daviViana = {
       'Git',
       'GitHub Actions',
       'CI/CD (em evolução)',
-      'Docker (fundamentos)',
+      'Docker',
       'Infraestrutura como Código (conceitos)'
     ],
     cloud: [
@@ -86,6 +86,7 @@ const daviViana = {
   ],
   goals: [
     'Atuar como Desenvolvedor Full Stack',
+    'Especialista .NET',
     'Evoluir para Engenheiro de Software',
     'Construir soluções escaláveis, monitoradas e bem estruturadas'
   ],
