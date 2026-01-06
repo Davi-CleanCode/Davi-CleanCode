@@ -5,13 +5,6 @@
   </a>
 </div>
 
-<!-- 🔷 HEADER ANIMADO -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=520&lines=Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG">
-  </a>
-</div>
-
 ```js
 const daviViana = {
   code: ['C#', 'JavaScript', 'TypeScript', 'Python', 'SQL'],
@@ -97,7 +90,10 @@ const daviViana = {
     'Evoluir para Engenheiro de Software',
     'Construir soluções escaláveis, monitoradas e bem estruturadas'
   ],
+---
 };
+
+
 
 
 
