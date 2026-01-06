@@ -93,13 +93,6 @@ const daviViana = {
 | 💻 Dev Full Stack | EBAC | Em progresso... |
 | 📈 Gestão de Projetos | DNC | Em progresso... |
 
- ⚙️ CONTRIBUIÇÕES 
-<div align="center">
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-</div>
-
 
 ---
 
