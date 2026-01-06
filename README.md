@@ -5,8 +5,7 @@
   </a>
 </div>
 
-<!-- 🧠 INTRO -->
-<img align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="280"/>
+
 
 const daviViana = {
    code: ['C#', 'JavaScript', 'TypeScript', 'Python', 'SQL'],
