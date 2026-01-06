@@ -5,17 +5,6 @@
   </a>
 </div>
 
-
-
-
-Sem isso, o GitHub trata como texto comum.
-
----
-
-## ✅ Versão CORRETA para colar no README.md
-
-Copie **exatamente isso** 👇
-
 ```js
 const daviViana = {
   code: ['C#', 'JavaScript', 'TypeScript', 'Python', 'SQL'],
