@@ -112,15 +112,7 @@ const daviViana = {
 
 ---
 
-<!-- 📈 ATIVIDADE -->
-<h2 align="center">📈 Atividade no GitHub</h2>
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davi-CleanCode&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true">
-  </a>
-</p>
 
-![Snake animation](https://github.com/Davi-CleanCode/Davi-CleanCode/blob/output/github-contribution-grid-snake.svg)
 
 
 
