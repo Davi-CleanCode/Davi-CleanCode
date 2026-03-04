@@ -66,4 +66,13 @@ const daviViana = {
 </picture>
 
 
+Sou desenvolvedor com foco em Back-End e Engenharia de Software, com experiência em .NET, Node.js e Python, além de base sólida em desenvolvimento full stack.
+
+Tenho facilidade para aprender rapidamente e estou sempre buscando evoluir tecnicamente. Valorizo código limpo, boas práticas, arquitetura bem estruturada e desenvolvimento orientado a resultados. Acredito no poder do trabalho em equipe, na mentalidade ágil e na melhoria contínua.
+
+Sou organizado, disciplinado e comprometido com o que começo. Gosto de entender profundamente o que estou construindo — não apenas fazer funcionar, mas fazer da maneira correta.
+
+Não desisto facilmente. Estou constantemente me desafiando, estudando arquitetura de sistemas, DevOps e boas práticas de engenharia para construir soluções escaláveis, bem monitoradas e prontas para produção.
+
+Estou aberto a oportunidades onde eu possa crescer como desenvolvedor, contribuir com projetos relevantes e evoluir para me tornar um Engenheiro de Software cada vez mais completo.
 
