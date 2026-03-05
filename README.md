@@ -76,3 +76,8 @@ Não desisto facilmente. Estou constantemente me desafiando, estudando arquitetu
 
 Estou aberto a oportunidades onde eu possa crescer como desenvolvedor, contribuir com projetos relevantes e evoluir para me tornar um Engenheiro de Software cada vez mais completo.
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Davi-CleanCode&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davi-CleanCode&theme=github_dark"/>
+</p>
+
