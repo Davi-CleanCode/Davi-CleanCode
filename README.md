@@ -37,8 +37,8 @@ const daviViana = {
 | Formação | Instituição | Status |
 |-----------|-------------|---------|
 | 💼 Tecnólogo em GTI | Impacta | Em progresso... |
-| 💻 Dev Full Stack | EBAC | Em progresso... |
-| 📈 Gestão de Projetos | DNC | Em progresso... |
+| 💻 Dev Full Stack | EBAC | Finalizado |
+| 📈 Gestão de Projetos | DNC | Finalizado |
 
 
 ---
