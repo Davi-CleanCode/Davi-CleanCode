@@ -7,7 +7,7 @@
 
 ```js
 const daviViana = {
-  code: ['C#', 'JavaScript', 'Python', 'SQL'],
+  code: ['Golang', 'C#', 'JavaScript', 'Python', 'SQL'],
 
   backEnd: {
     dotnet: ['.NET', 'ASP.NET Core', 'Web API', 'MVC'],
