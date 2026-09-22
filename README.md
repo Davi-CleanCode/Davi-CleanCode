@@ -11,46 +11,46 @@
 <br/>
 
 <a href="https://landing-bio-kappa.vercel.app/portfolio">
-  <img src="https://img.shields.io/badge/🌐%20Meu%20Portfólio-111111?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20MEU%20PORTFÓLIO-111111?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/vianadavi">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/davi.vian.a/">
-  <img src="https://img.shields.io/badge/@davi.vian.a-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/@DAVI.VIAN.A-111111?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
-I'm a **Software Developer and Web Developer** focused on building modern, scalable and well-structured applications.
+Sou **Desenvolvedor de Software e Desenvolvedor Web**, com foco na criação de aplicações modernas, escaláveis e bem estruturadas.
 
-My main focus is **back-end development, full-stack development, web applications and software architecture**, combining technical knowledge with business and marketing.
+Meu foco principal está em **Back-end, Full Stack, Desenvolvimento Web, APIs e Arquitetura de Software**, combinando conhecimento técnico com uma visão voltada para negócios e resultados.
 
-I also work as an **Infoproduct Launch Specialist**, helping structure digital products, acquisition systems, landing pages, automation and marketing operations.
+Também atuo como **Especialista em Lançamento de Infoprodutos**, trabalhando na estruturação de produtos digitais, páginas de destino, sistemas de aquisição, automações, funis e operações de marketing.
 
-My main interests are:
+### Principais áreas de atuação
 
-- Web Development
-- Backend Development
-- Full Stack Development
-- Software Architecture
-- REST APIs
+- Desenvolvimento Web
+- Desenvolvimento Back-end
+- Desenvolvimento Full Stack
+- APIs REST
+- Arquitetura de Software
 - Clean Code & SOLID
-- Databases
+- Banco de Dados
 - DevOps & CI/CD
-- Automation
-- Digital Products
-- Infoproduct Launches
-- Marketing & Data
+- Automação
+- Produtos Digitais
+- Lançamento de Infoprodutos
+- Marketing & Dados
 
-> I don't just want to make software work.
-> I want to understand **why it works, how it scales and how it can generate real business value.**
+> Não quero apenas fazer o software funcionar.
+> Quero entender **como ele funciona, como pode escalar e como pode gerar valor real para o negócio.**
 
 ---
 
@@ -64,7 +64,7 @@ My main interests are:
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 
-### Web Development
+### Desenvolvimento Web
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
@@ -73,14 +73,14 @@ My main interests are:
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases
+### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-111111?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Tools
+### DevOps & Ferramentas
 
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
@@ -89,59 +89,128 @@ My main interests are:
 
 ---
 
-## 🎯 What I Do
+## 🎯 O que eu faço
 
-```text
-Software Development
-├── Web Applications
-├── REST APIs
-├── Back-end Systems
-├── Full Stack Applications
-└── Software Architecture
+### 💻 Desenvolvimento de Software
 
-Digital Products
-├── Infoproduct Launches
-├── Landing Pages
-├── Sales Funnels
-├── Marketing Automation
-└── Data & Performance
+Desenvolvimento de aplicações e sistemas voltados para problemas reais de negócio.
 
-Engineering
-├── Clean Code
-├── SOLID
-├── MVC
-├── Docker
-├── CI/CD
-└── Scalable Systems
-🚀 Featured Projects
-🔹 Dentalflow
+- Aplicações Web
+- APIs REST
+- Sistemas Back-end
+- Aplicações Full Stack
+- Integrações
+- Automação de processos
+- Arquitetura de Software
 
-CRM focused on dental professionals.
+### 🚀 Produtos Digitais
 
-Stack: React • TypeScript • Node.js • PostgreSQL
+Estruturação técnica e estratégica de produtos digitais.
 
-A platform designed to organize customer management, digital records, automation and business workflows.
+- Infoprodutos
+- Lançamentos
+- Landing Pages
+- Funis de aquisição
+- Automação de Marketing
+- Integrações
+- SaaS e Micro SaaS
+- Dados e Performance
 
-🔹 InfoMind
+### ⚙️ Engenharia de Software
 
-Digital product platform focused on organizing and delivering knowledge through an interactive experience.
+Foco em construir software organizado, sustentável e preparado para evolução.
 
-Stack: React • TypeScript • Supabase
+- Clean Code
+- SOLID
+- MVC
+- Arquitetura de Software
+- Docker
+- CI/CD
+- APIs
+- Sistemas escaláveis
 
-🔹 NinjaADS
+---
 
-Platform designed to help marketers structure campaigns, audiences, creative strategies and prospecting workflows.
+## 🚀 Projetos em destaque
 
-Stack: React • TypeScript • Supabase
+### 🔹 Dentalflow
 
-📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Davi-CleanCode&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&theme=github_dark&hide_border=true"/> </div> <br/> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi-CleanCode&theme=github_dark"/> </div>
-🎓 Education
-Education	Institution	Status
-Gestão de Tecnologia da Informação	Faculdade	📚 In progress
-Desenvolvimento Full Stack	EBAC	✅ Completed
-Gestão de Projetos	DNC	✅ Completed
-📫 Contact
-<div align="center"> <a href="https://landing-bio-kappa.vercel.app/portfolio"> <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> <a href="mailto:daviviana2732@gmail.com"> <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vianadavi"> <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/davi.vian.a/"> <img src="https://img.shields.io/badge/@DAVI.VIAN.A-111111?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </div> <br/> <div align="center">
-Building software. Launching products. Solving real problems.
-</div> ```
+**CRM para profissionais da área odontológica.**
+
+Plataforma voltada para organização de clientes, prontuários digitais, automações e gestão de processos.
+
+**Stack:** React • TypeScript • Node.js • PostgreSQL
+
+---
+
+### 🔹 InfoMind
+
+**Plataforma digital para organização e entrega de conhecimento.**
+
+Projeto desenvolvido para criar uma experiência interativa de consumo e organização de conteúdo.
+
+**Stack:** React • TypeScript • Supabase
+
+---
+
+### 🔹 NinjaADS
+
+**Plataforma para estruturação de campanhas e estratégias de aquisição.**
+
+Sistema desenvolvido para organizar nichos, campanhas, públicos, criativos, estratégias e processos de prospecção.
+
+**Stack:** React • TypeScript • Supabase
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Davi-CleanCode&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-CleanCode&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎓 Educação
+
+| Formação | Instituição | Status |
+|---|---|---|
+| Gestão de Tecnologia da Informação | Faculdade | 📚 Em andamento |
+| Desenvolvimento Full Stack | EBAC | ✅ Concluído |
+| Gestão de Projetos | DNC | ✅ Concluído |
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://landing-bio-kappa.vercel.app/portfolio">
+  <img src="https://img.shields.io/badge/🌐%20PORTFÓLIO-111111?style=for-the-badge" />
+</a>
+
+<a href="mailto:daviviana2732@gmail.com">
+  <img src="https://img.shields.io/badge/✉%20EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vianadavi">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/davi.vian.a/">
+  <img src="https://img.shields.io/badge/@DAVI.VIAN.A-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Desenvolvimento de software. Lançamento de produtos. Solução de problemas reais.
+
+</div>
