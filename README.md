@@ -4,17 +4,29 @@
 
 # Davi Viana
 
-### Software Developer • Back-end • Full Stack
+### Software Developer • Web Developer • Back-end • Full Stack
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+scalable+software+%F0%9F%9A%80;Back-end+%7C+Full+Stack+%7C+APIs;Clean+Code+%7C+Architecture+%7C+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+scalable+software+%F0%9F%9A%80;Web+Development+%7C+Back-end+%7C+Full+Stack;Software+Engineering+%7C+APIs+%7C+DevOps;Infoproduct+Launch+Specialist+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Davi-CleanCode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vianadavi)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/davi_vianax)
+<a href="https://landing-bio-kappa.vercel.app/portfolio">
+  <img src="https://img.shields.io/badge/🌐%20Meu%20Portfólio-111111?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://github.com/Davi-CleanCode">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/vianadavi">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/davi_vianax">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -22,25 +34,29 @@
 
 ## 👨‍💻 About me
 
-I'm a **Software Developer** focused on back-end and full-stack development.
+I'm a **Software Developer and Web Developer** focused on building modern, scalable and well-structured applications.
 
-I enjoy building applications, APIs and systems that are **well structured, maintainable and scalable**.
+My main focus is **back-end development, full-stack development, web applications and software architecture**, combining technical knowledge with business and marketing.
+
+I also work as an **Infoproduct Launch Specialist**, helping structure digital products, acquisition systems, landing pages, automation and marketing operations.
 
 My main interests are:
 
-* Backend development
-* Software architecture
+* Web Development
+* Backend Development
+* Full Stack Development
+* Software Architecture
 * REST APIs
 * Clean Code & SOLID
 * Databases
 * DevOps & CI/CD
-* System scalability
 * Automation
-
-I also have experience with **marketing, data and digital products**, which gives me a broader perspective when building software for real businesses.
+* Digital Products
+* Infoproduct Launches
+* Marketing & Data
 
 > I don't just want to make software work.
-> I want to understand **why it works, how it scales and how it can be improved.**
+> I want to understand **why it works, how it scales and how it can generate real business value.**
 
 ---
 
@@ -54,11 +70,12 @@ I also have experience with **marketing, data and digital products**, which give
 ![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
 
-### Frontend
+### Web Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-111111?style=for-the-badge\&logo=vite\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=white)
 
@@ -78,33 +95,30 @@ I also have experience with **marketing, data and digital products**, which give
 
 ---
 
-## 🏗️ Engineering
+## 🎯 What I Do
 
 ```text
-Architecture
+Software Development
+├── Web Applications
 ├── REST APIs
-├── Clean Architecture
+├── Back-end Systems
+├── Full Stack Applications
+└── Software Architecture
+
+Digital Products
+├── Infoproduct Launches
+├── Landing Pages
+├── Sales Funnels
+├── Marketing Automation
+└── Data & Performance
+
+Engineering
+├── Clean Code
 ├── SOLID
 ├── MVC
-└── Clean Code
-
-Backend
-├── .NET / ASP.NET Core
-├── Node.js
-├── Python
-└── Go
-
-Infrastructure
 ├── Docker
 ├── CI/CD
-├── GitHub Actions
-└── AWS
-
-Database
-├── PostgreSQL
-├── SQL Server
-├── MySQL
-└── MongoDB
+└── Scalable Systems
 ```
 
 ---
@@ -117,7 +131,7 @@ CRM focused on dental professionals.
 
 **Stack:** React • TypeScript • Node.js • PostgreSQL
 
-Features include customer management, digital records, automation and business workflow management.
+A platform designed to organize customer management, digital records, automation and business workflows.
 
 ---
 
@@ -167,32 +181,24 @@ Platform designed to help marketers structure campaigns, audiences, creative str
 
 ---
 
-## 📈 Currently learning
-
-```text
-→ Software Architecture
-→ System Design
-→ DevOps
-→ Cloud Infrastructure
-→ Scalable APIs
-→ Distributed Systems
-```
-
----
-
-## 🐍 Contribution Graph
+## 🐍 Contributions
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
+  <source
+    media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Davi-CleanCode/Davi-CleanCode/output/github-contribution-grid-snake-dark.svg">
 
-<source media="(prefers-color-scheme: light)"
+<source
+ media="(prefers-color-scheme: light)"
  srcset="https://raw.githubusercontent.com/Davi-CleanCode/Davi-CleanCode/output/github-contribution-grid-snake.svg">
 
-<img alt="GitHub contribution snake animation"
- src="https://raw.githubusercontent.com/Davi-CleanCode/Davi-CleanCode/output/github-contribution-grid-snake-dark.svg"> </picture>
+<img
+ alt="GitHub contribution snake animation"
+ src="https://raw.githubusercontent.com/Davi-CleanCode/Davi-CleanCode/output/github-contribution-grid-snake-dark.svg">
+
+</picture>
 
 </div>
 
@@ -201,6 +207,10 @@ Platform designed to help marketers structure campaigns, audiences, creative str
 ## 📫 Contact
 
 <div align="center">
+
+<a href="https://landing-bio-kappa.vercel.app/portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="mailto:daviviana2732@gmail.com">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -220,6 +230,6 @@ Platform designed to help marketers structure campaigns, audiences, creative str
 
 <div align="center">
 
-**Building software. Learning continuously. Solving real problems.**
+### Building software. Launching products. Solving real problems.
 
 </div>
